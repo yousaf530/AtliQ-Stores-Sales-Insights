@@ -51,4 +51,4 @@ A Power BI DashBoard to visualize and keep track of the latest sales insights
 
 # AtliQ Sales Insights Report/Dashboard Mobile View
 
-![AtliQ_Mobile-2.jpg](attachment:AtliQ_Mobile-2.jpg)
+![AtliQ_Mobile](https://user-images.githubusercontent.com/45168689/112820548-2206c180-909f-11eb-95a7-e33573a30d8b.jpg)
