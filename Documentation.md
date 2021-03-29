@@ -28,7 +28,7 @@ A Power BI DashBoard to visualize and keep track of the latest sales insights
 
 <b>Star Schema</b> is followed.
 
-![Schema.png](attachment:Schema.png)
+![Schema](https://user-images.githubusercontent.com/45168689/112821427-21225f80-90a0-11eb-8c39-a05d0ed08e7b.png)
 
 # Process Steps
 
