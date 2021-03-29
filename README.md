@@ -4,7 +4,7 @@ Data Analysis and Visualization of AtliQ Stores Sales using Power BI
 
 # Problem Statement
 
-<b> AtliQ Hardware </b> supplies hardware and peripherals to many hardware store clients. They have head office in Dehli and many regional offices.Their sales are growing rapidly and the Sales Director is having issue to keep insights of the growth as there are so many excel files.
+<b>AtliQ Hardware</b> supplies hardware and peripherals to many hardware store clients. They have head office in Delhi and many regional offices. Their sales are fluctuating rapidly and the Sales Director is having issue to keep insights and track of the growth or decline as there are so many excel files merged to form an SQL database.<b> AtliQ Hardware </b> supplies hardware and peripherals to many hardware store clients. They have head office in Dehli and many regional offices.Their sales are growing rapidly and the Sales Director is having issue to keep insights of the growth as there are so many excel files.
 
 # AIM'S GRID
 
